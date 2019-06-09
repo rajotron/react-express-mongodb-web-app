@@ -1,0 +1,36 @@
+{
+  "name": "myreactapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.2.0",
+    "@types/inline-style-prefixer": "^5.0.0",
+    "inline-style-prefix-all": "^2.0.2",
+    "inline-style-prefixer": "^5.0.1",
+    "jw-react-modal": "^1.0.3",
+    "react": "^16.5.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dialog": "^1.0.2",
+    "react-dom": "^16.5.2",
+    "react-modal-dialog": "^4.0.7",
+    "react-scripts": "2.0.3",
+    "react-spinjs": "^3.0.0",
+    "react-table": "^6.8.6",
+    "simple-react-forms": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
