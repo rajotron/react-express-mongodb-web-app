@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
 
 var MongoClient = require('mongodb').MongoClient;
-// Configuring the database
+
 const dbConfig = require('./config/database.config');
 
 // --------------------------------------------------------------------------------------------
